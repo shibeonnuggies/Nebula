@@ -20,4 +20,4 @@ port = 5432
 [server.server]
 port = 8080
 wisp = true
-logging = true # Disable for the tons & tons of logs to go away (useful for debugging but otherwise eh)
+logging = false # Disable for the tons & tons of logs to go away (useful for debugging but otherwise eh)
